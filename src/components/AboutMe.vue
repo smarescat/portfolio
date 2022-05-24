@@ -1,7 +1,7 @@
 <template>
   <section class="about" id="about">
     <div class="max-width">
-      <h2 data-aos="fade-down" class="title">About me</h2>
+      <h2 data-aos="fade-up" class="title">About me</h2>
       <div data-aos="fade-left" data-aos-duration="1500" class="about-content">
         <div class="column left">
           <img src="../assets/santi.jpeg" alt="profile image" />

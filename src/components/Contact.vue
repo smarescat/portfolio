@@ -1,7 +1,7 @@
 <template>
   <div class="contact" id="contact">
     <div class="max-width">
-      <h2 data-aos="fade-down" class="title">CONTACT ME</h2>
+      <h2 data-aos="fade-up" class="title">CONTACT ME</h2>
       <div
         data-aos="fade-right"
         data-aos-duration="1500"

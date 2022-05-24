@@ -1,7 +1,7 @@
 <template>
   <div class="skills" id="skills">
     <div class="max-width">
-      <h2 data-aos="fade-down" class="title">SKILLS</h2>
+      <h2 data-aos="fade-up" class="title">SKILLS</h2>
     </div>
     <div class="container-fluid col-lg-10 col-md-6 col-sm-3">
       <div class="row d-flex flex-wrap align-items-center">

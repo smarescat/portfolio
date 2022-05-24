@@ -1,6 +1,6 @@
 <template>
   <div class="project" id="projects">
-     <h2 data-aos="fade-down" class="title">PROJECTS</h2>
+     <h2 data-aos="fade-up" class="title">PROJECTS</h2>
     <div
     data-aos="zoom-in-up"
     data-aos-duration="1500"
