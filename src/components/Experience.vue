@@ -1,6 +1,6 @@
 <template>
   <div class="experience" id="experience">
-    <h2 data-aos="fade-down" class="title">EXPERIENCE</h2>
+    <h2 data-aos="fade-up" class="title">EXPERIENCE</h2>
     <div class="container-fluid" data-aos="zoom-in">
       <div class="row">
         <div class="col-12 col-md left">
