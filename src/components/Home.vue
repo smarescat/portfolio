@@ -3,7 +3,7 @@
         <div class="home-content">
           <div class="text-1">SANTIAGO MARESCA THOMÉ</div>
           <hr />
-          <div class="text-2">Software developer</div>
+          <div class="text-2">Full Stack Developer</div>
         </div>
     </div>
 </template>
