@@ -141,7 +141,7 @@
           <div class="skill-title">
             <div class="img">
               <img
-                src="../assets/skills/c++.png"
+                src="../assets/skills/cplus.png"
                 class="skill-icon"
                 alt="skill c++ logo"
               />
