@@ -1,9 +1,9 @@
 <template>
   <div class="project" id="projects">
-     <h2 data-aos="fade-up" class="title">PROJECTS</h2>
+    <h2 data-aos="fade-up" class="title">PROJECTS</h2>
     <div
-    data-aos="zoom-in-up"
-    data-aos-duration="1500"
+      data-aos="zoom-in-up"
+      data-aos-duration="1500"
       id="carouselExampleCaptions"
       class="carousel slide"
       data-bs-ride="carousel"
@@ -47,9 +47,15 @@
             <div class="carousel-caption d-none d-md-block">
               <h5>iBroggi</h5>
               <p>
-                Some representative placeholder content for the first slide.
+                The project is for the client Institut Moisès Broggi. It
+                consists of an emergency call simulator for technicians in the
+                process of being trained on 112, the Barcelona emergency system.
               </p>
-              <a href="https://github.com/DevinSJ/project-broggi" target="_blank">Link to GitHub repository</a>
+              <a
+                href="https://github.com/DevinSJ/project-broggi"
+                target="_blank"
+                >Link to GitHub repository</a
+              >
             </div>
           </div>
         </div>
@@ -63,9 +69,14 @@
             <div class="carousel-caption d-none d-md-block">
               <h5>Word search</h5>
               <p>
-                Some representative placeholder content for the second slide.
+                The project is for the client Center d'Estudis Politècnics It
+                consists of a game about the "FRASE" of the center explaining how
+                it works and the qualities that they want the student to develop
+                or improve.
               </p>
-              <a href="https://smarescat.github.io/wordSearch/" target="_blank">Let's play!</a>
+              <a href="https://smarescat.github.io/wordSearch/" target="_blank"
+                >Let's play!</a
+              >
             </div>
           </div>
         </div>
@@ -79,11 +90,23 @@
             <div class="carousel-caption d-none d-md-block">
               <h5>Chrysallis</h5>
               <p>
-                Project currently used by the client, this program is in charge of scheduling and managing the social events that Chrysallis carries out for the families of said association. It contains a desktop application made in .NET where it manages the content of the game.
+                Project currently used by the client, this program is in charge
+                of scheduling and managing the social events that Chrysallis
+                carries out for the families of said association. It contains a
+                desktop application made in .NET where it manages the content of
+                the game.
               </p>
-              <a href="https://www.youtube.com/watch?v=O_hz8wCR060" target="_blank">Video Android application</a>
-              <br>
-              <a href="https://www.youtube.com/watch?v=l6Po2-P1JEg" target="_blank">Video desktop application</a>
+              <a
+                href="https://www.youtube.com/watch?v=O_hz8wCR060"
+                target="_blank"
+                >Video Android application</a
+              >
+              <br />
+              <a
+                href="https://www.youtube.com/watch?v=l6Po2-P1JEg"
+                target="_blank"
+                >Video desktop application</a
+              >
             </div>
           </div>
         </div>
@@ -97,9 +120,15 @@
             <div class="carousel-caption d-none d-md-block">
               <h5>Eco world</h5>
               <p>
-                Trivia game on Android for children between 8 and 12 years old. It contains a desktop application made in .NET where it manages the content of the game.
+                Trivia game on Android for children between 8 and 12 years old.
+                It contains a desktop application made in .NET where it manages
+                the content of the game.
               </p>
-              <a href="https://www.youtube.com/watch?v=WOgZMzWNOu8" target="_blank">Video Android application</a>
+              <a
+                href="https://www.youtube.com/watch?v=WOgZMzWNOu8"
+                target="_blank"
+                >Video Android application</a
+              >
             </div>
           </div>
         </div>
