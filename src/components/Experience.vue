@@ -9,7 +9,7 @@
             <div class="year color-darker">2022</div>
             <div class="resume-description">
               <strong class="color-light"
-                >Web Applictions Developer</strong
+                >Web Applications Developer - DAW</strong
               >
             </div>
             <div class="color-darker">Centre d'Estudis Politecnics</div>
@@ -18,7 +18,7 @@
             <div class="year color-darker">2021</div>
             <div class="resume-description">
               <strong class="color-light"
-                >Multi-Platform Applictions Developer</strong
+                >Multi-Platform Applications Developer - DAM</strong
               >
             </div>
             <div class="color-darker">Centre d'Estudis Politecnics</div>
